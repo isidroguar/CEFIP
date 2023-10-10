@@ -47,5 +47,5 @@ rename value* v_*
 			ytitle("Share of corporate profits") ylab(, nogrid)  ///
 			legend(order (1 "BR" 2 "MX" 3 "FR" 4 "ES" 5 "US") ///
 	     	region(lcolor(black))  pos(6) col(12) size(*0.7))  ///
-			title("Isidro nueva versión") 
+			title("Isidro tercera versión") 
 	 	
